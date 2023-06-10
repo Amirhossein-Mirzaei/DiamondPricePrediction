@@ -4,18 +4,18 @@
     </span> 
     <h3 style="color: #d35400;">Tasks in this notebook</h3>
     <ul style="list-style-type: none; padding-left: 0;">
-        <li><span style="margin-left: -10px;">&#8226;</span> Import libraries</li>
-        <li><span style="margin-left: -10px;">&#8226;</span> Read dataset and get information from data</li>
-        <li><span style="margin-left: -10px;">&#8226;</span> Cleaning Dataset</li>
-        <li><span style="margin-left: -10px;">&#8226;</span> Features</li>
+        <li><span style="margin-left: -10px;"></span> Import libraries</li>
+        <li><span style="margin-left: -10px;"></span> Read dataset and get information from data</li>
+        <li><span style="margin-left: -10px;"></span> Cleaning Dataset</li>
+        <li><span style="margin-left: -10px;"></span> Features</li>
         <li>
-            <span style="margin-left: -10px;">&#8226;</span> Modeling
+            <span style="margin-left: -10px;"></span> Modeling
             <ul style="list-style-type: none; padding-left: 20px;">
-                <li><span style="margin-left: -10px;">&#8226;</span> Linear Regression</li>
-                <li><span style="margin-left: -10px;">&#8226;</span> KNeighbors Regressor</li>
-                <li><span style="margin-left: -10px;">&#8226;</span> Decision Tree Regressor</li>
+                <li><span style="margin-left: -10px;"></span> Linear Regression</li>
+                <li><span style="margin-left: -10px;"></span> KNeighbors Regressor</li>
+                <li><span style="margin-left: -10px;"></span> Decision Tree Regressor</li>
             </ul>
         </li>
-        <li><span style="margin-left: -10px;">&#8226;</span>Compare prediction with real values</li>
+        <li><span style="margin-left: -10px;"></span>Compare prediction with real values</li>
     </ul>
 </div>
