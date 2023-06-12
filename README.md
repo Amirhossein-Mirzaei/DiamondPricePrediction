@@ -12,7 +12,7 @@
             <span style="margin-left: -10px;"></span> Modeling
             <ul style="list-style-type: none; padding-left: 20px;">
                 <li><span style="margin-left: -10px;"></span> Linear Regression</li>
-                <li><span style="margin-left: -10px;"></span> KNeighbors Regressor</li>
+                <li><span style="margin-left: -10px;"></span> KNeighbors Regressor </li>
                 <li><span style="margin-left: -10px;"></span> Decision Tree Regressor</li>
             </ul>
         </li>
